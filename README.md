@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoniyaSukumaran
 - 👀 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m a recent Data Analytics graduate 
+- 🌱 I’m a Data Analytics graduate 
 - 💞️ I’m a Mathematics graduate
  
 
